@@ -51,3 +51,7 @@ This project presents an interactive dashboard analyzing airline flight operatio
 
 ## 🔗 Links
   - **📂 Dataset:** → [Flight Data](https://www.kaggle.com/code/farzadnekouei/flight-data-eda-to-preprocessing/input)
+
+## Dashboard Preview:
+<img width="1865" height="784" alt="Flight Data Analysis Dashboard" src="https://github.com/user-attachments/assets/ad968e7e-057a-4caf-b85a-ebde93271142" />
+
