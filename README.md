@@ -44,10 +44,11 @@ This project presents an interactive dashboard analyzing airline flight operatio
   - Implement airport-specific operational improvement strategies
 
 ## 🛠️ Tools & Technologies
-  - Power Query
-  - Excel Data Modeling
-  - DAX
-  - Power Pivot
+- Microsoft Excel
+- Power Query (Data Cleaning & Transformation)
+- Power Pivot (Data Modeling)
+- Pivot Tables & Pivot Charts
+- Dashboard Design & Data Visualization
 
 ## 🔗 Links
   - **📂 Dataset:** → [Flight Data](https://www.kaggle.com/code/farzadnekouei/flight-data-eda-to-preprocessing/input)
